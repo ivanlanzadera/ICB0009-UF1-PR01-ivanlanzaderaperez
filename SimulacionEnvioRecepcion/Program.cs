@@ -101,13 +101,29 @@ namespace SimulacionEnvioRecepcion
             {
                 Console.WriteLine ("Acceso a la aplicación");
                 Console.WriteLine ("Usuario: ");
-                string userName = Console.ReadLine();
+                string userName = Console.ReadLine()!;
 
                 Console.WriteLine ("Password: ");
-                string Password = Console.ReadLine();
+                string Password = Console.ReadLine()!;
 
                 /***PARTE 1***/
                 /*Modificar esta parte para que el login se haga teniendo en cuenta que el registro se realizó con SHA512 y salt*/
+                if (credentials["username"] == userName)
+                {
+                    // Verificar contraseña introducida
+                    string hash = GenerateHash(String.Concat(credentials["salt"], Password));
+                    if (hash == credentials["hash"])
+                    {
+                        auxlogin = true;
+                        Console.WriteLine($"\nLogin Correcto. ¡Bienvenido, {credentials["username"]}!\n");
+                    } else
+                    {
+                        Console.WriteLine("Error: La contraseña introducida no es válida.");
+                    }
+                } else 
+                {
+                    Console.WriteLine("Error: El nombre de usuario introducido no es válido.");
+                }
 
 
             }while (!auxlogin);
