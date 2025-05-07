@@ -1,0 +1,12 @@
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.deps.json
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.dll
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.pdb
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.AssemblyInfoInputs.cache
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.AssemblyInfo.cs
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.csproj.CoreCompileInputs.cache
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.sourcelink.json
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.dll
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\refint\ClaveAsimetricaClass.dll
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.pdb
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveAsimetricaClass\obj\Debug\net8.0\ref\ClaveAsimetricaClass.dll

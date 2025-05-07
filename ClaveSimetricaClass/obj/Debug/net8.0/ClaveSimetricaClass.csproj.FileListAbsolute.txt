@@ -1,0 +1,12 @@
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\bin\Debug\net8.0\ClaveSimetricaClass.deps.json
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\bin\Debug\net8.0\ClaveSimetricaClass.dll
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\bin\Debug\net8.0\ClaveSimetricaClass.pdb
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\ClaveSimetricaClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\ClaveSimetricaClass.AssemblyInfoInputs.cache
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\ClaveSimetricaClass.AssemblyInfo.cs
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\ClaveSimetricaClass.csproj.CoreCompileInputs.cache
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\ClaveSimetricaClass.sourcelink.json
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\ClaveSimetricaClass.dll
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\refint\ClaveSimetricaClass.dll
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\ClaveSimetricaClass.pdb
+F:\CFGS - DAM\2do año\2 Semestre\M09 - Procesos e hilos\UF1\ICB0009-UF1-PR01-ivanlanzaderaperez\ClaveSimetricaClass\obj\Debug\net8.0\ref\ClaveSimetricaClass.dll

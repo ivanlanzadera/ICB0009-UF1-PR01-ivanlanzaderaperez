@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj": {}
+    "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
+    "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj",
+        "projectUniqueName": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj",
         "projectName": "ClaveAsimetricaClass",
-        "projectPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj",
-        "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveAsimetricaClass\\obj\\",
+        "projectPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj",
+        "packagesPath": "C:\\Users\\ivanl\\.nuget\\packages\\",
+        "outputPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveAsimetricaClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ivanl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -53,50 +53,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
+    "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+        "projectUniqueName": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
         "projectName": "ClaveSimetricaClass",
-        "projectPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
-        "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\obj\\",
+        "projectPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+        "packagesPath": "C:\\Users\\ivanl\\.nuget\\packages\\",
+        "outputPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ivanl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -112,8 +98,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -125,56 +111,42 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj": {
+    "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
+        "projectUniqueName": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
         "projectName": "SimulacionEnvioRecepcion",
-        "projectPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
-        "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\obj\\",
+        "projectPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
+        "packagesPath": "C:\\Users\\ivanl\\.nuget\\packages\\",
+        "outputPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\SimulacionEnvioRecepcion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ivanl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
-                "projectPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj"
+              "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
+                "projectPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj"
               },
-              "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
-                "projectPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj"
+              "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
+                "projectPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj"
               }
             }
           }
@@ -191,8 +163,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -204,30 +176,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.28, 6.0.28]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

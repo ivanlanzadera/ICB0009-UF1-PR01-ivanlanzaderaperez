@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ClaveAsimetricaClass")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SimulacionEnvioRecepcion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3a8ce5ed8901807bd74f428e22314b87661295")]
-[assembly: System.Reflection.AssemblyProductAttribute("ClaveAsimetricaClass")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ClaveAsimetricaClass")]
+[assembly: System.Reflection.AssemblyProductAttribute("SimulacionEnvioRecepcion")]
+[assembly: System.Reflection.AssemblyTitleAttribute("SimulacionEnvioRecepcion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

@@ -4,12 +4,11 @@ using System.Security.Cryptography;
 using ClaveSimetricaClass;
 using ClaveAsimetricaClass;
 
-namespace SimuladorEnvioRecepcion
+namespace SimulacionEnvioRecepcion
 {
     class Program
     {   
-        static string UserName;
-        static string SecurePass;  
+        static Dictionary<string, string> credentials = []; 
         static ClaveAsimetrica Emisor = new ClaveAsimetrica();
         static ClaveAsimetrica Receptor = new ClaveAsimetrica();
         static ClaveSimetrica ClaveSimetricaEmisor = new ClaveSimetrica();
@@ -23,9 +22,9 @@ namespace SimuladorEnvioRecepcion
             /****PARTE 1****/
             //Login / Registro
             Console.WriteLine ("¿Deseas registrarte? (S/N)");
-            string registro = Console.ReadLine ();
+            string registro = Console.ReadLine()!.ToUpper();
 
-            if (registro =="S")
+            if (registro == "S")
             {
                 //Realizar registro del cliente
                 Registro();                
@@ -70,16 +69,28 @@ namespace SimuladorEnvioRecepcion
         public static void Registro()
         {
             Console.WriteLine ("Indica tu nombre de usuario:");
-            UserName = Console.ReadLine();
+            string UserName = Console.ReadLine()!;
             //Una vez obtenido el nombre de usuario lo guardamos en la variable UserName y este ya no cambiará 
 
             Console.WriteLine ("Indica tu password:");
-            string passwordRegister = Console.ReadLine();
+            string passwordRegister = Console.ReadLine()!;
             //Una vez obtenido el passoword de registro debemos tratarlo como es debido para almacenarlo correctamente a la variable SecurePass
 
             /***PARTE 1***/
             /*Añadir el código para poder almacenar el password de manera segura*/
+            // Obtener Salt
+            string Salt = SaltGenerator();
 
+            // Concatenamos salt + contraseña
+            string SaltedPassword = String.Concat(Salt, passwordRegister);
+
+            // Generamos Hash de la contraseña con salt
+            string HashedCredential = GenerateHash(SaltedPassword);
+
+            // Registramos los datos de acceso en nuestro diccionario global
+            credentials["username"] = UserName;
+            credentials["salt"] = Salt;
+            credentials["hash"] = HashedCredential;
         }
 
 
@@ -112,6 +123,22 @@ namespace SimuladorEnvioRecepcion
                 stringBuilder.AppendFormat("{0:x2}", b);
 
             return stringBuilder.ToString();
-        }        
+        }
+
+        static string SaltGenerator ()
+        {
+            byte[] salt = new byte[32];
+            RandomNumberGenerator rng = RandomNumberGenerator.Create();
+            rng.GetBytes(salt);
+            return BytesToStringHex(salt);;
+        }
+
+        static string GenerateHash (string credential)
+        {
+            /**SHA512**/
+            SHA512 algorithm = SHA512.Create();
+            byte[] hash = algorithm.ComputeHash(Encoding.UTF8.GetBytes(credential));
+            return BytesToStringHex(hash);
+        }
     }
 }
