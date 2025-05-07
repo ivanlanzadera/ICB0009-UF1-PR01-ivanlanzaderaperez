@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ClaveAsimetricaClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClaveAsimetricaClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClaveAsimetricaClass.dll": {}
+        }
+      },
+      "ClaveSimetricaClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ClaveSimetricaClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClaveSimetricaClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClaveAsimetricaClass/1.0.0": {
+      "type": "project",
+      "path": "../ClaveAsimetricaClass/ClaveAsimetricaClass.csproj",
+      "msbuildProject": "../ClaveAsimetricaClass/ClaveAsimetricaClass.csproj"
+    },
+    "ClaveSimetricaClass/1.0.0": {
+      "type": "project",
+      "path": "../ClaveSimetricaClass/ClaveSimetricaClass.csproj",
+      "msbuildProject": "../ClaveSimetricaClass/ClaveSimetricaClass.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ClaveAsimetricaClass >= 1.0.0",
+      "ClaveSimetricaClass >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\roger\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
+      "projectName": "SimulacionEnvioRecepcion",
+      "projectPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
+      "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
+              "projectPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj"
+            },
+            "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
+              "projectPath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

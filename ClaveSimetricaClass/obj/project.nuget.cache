@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iWQoZ3MqM1AKcSQIwxdiBRHu5GMTFKTTerZQLnUAf9tQ6yT7SZC2Cdrlb6UWniTLMFSPCHzuqeIoDfy5akT1dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jsrton0hmjiEtSaF2rTAqExtH9YOQsan0HvV0TsFYLFg+MyeLUYb+id+YL5PCbieHogTQXGlg2gpJU8HqxbCXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roger\\Dropbox\\La Salle - Online\\2023-2024\\Prácticas\\UF1\\Pr01 - sandbox\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\roger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
