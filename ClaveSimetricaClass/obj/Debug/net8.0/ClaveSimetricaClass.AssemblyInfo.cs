@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClaveSimetricaClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1c33ca1c1730fa3b38d4182c28f2551895ebc42")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d97780780d8ee5a61313b6ca2008fa5f01e3bdf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClaveSimetricaClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClaveSimetricaClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -78,14 +78,11 @@ namespace SimulacionEnvioRecepcion
 
             /***PARTE 1***/
             /*Añadir el código para poder almacenar el password de manera segura*/
-            // Obtener Salt
+            // Obtener Salt y conservar el salt
             string Salt = SaltGenerator();
 
-            // Concatenamos salt + contraseña
-            string SaltedPassword = String.Concat(Salt, passwordRegister);
-
             // Generamos Hash de la contraseña con salt
-            string HashedCredential = GenerateHash(SaltedPassword);
+            string HashedCredential = GenerateHash(Salt, passwordRegister);
 
             // Registramos los datos de acceso en nuestro diccionario global
             credentials["username"] = UserName;
@@ -99,7 +96,7 @@ namespace SimulacionEnvioRecepcion
             bool auxlogin = false;
             do
             {
-                Console.WriteLine ("Acceso a la aplicación");
+                Console.WriteLine ("\nAcceso a la aplicación");
                 Console.WriteLine ("Usuario: ");
                 string userName = Console.ReadLine()!;
 
@@ -111,7 +108,7 @@ namespace SimulacionEnvioRecepcion
                 if (credentials["username"] == userName)
                 {
                     // Verificar contraseña introducida
-                    string hash = GenerateHash(String.Concat(credentials["salt"], Password));
+                    string hash = GenerateHash(credentials["salt"], Password);
                     if (hash == credentials["hash"])
                     {
                         auxlogin = true;
@@ -149,11 +146,18 @@ namespace SimulacionEnvioRecepcion
             return BytesToStringHex(salt);;
         }
 
-        static string GenerateHash (string credential)
+        static string GenerateHash (string salt, string credential)
         {
-            /**SHA512**/
-            SHA512 algorithm = SHA512.Create();
-            byte[] hash = algorithm.ComputeHash(Encoding.UTF8.GetBytes(credential));
+            /** BCRYPT con SHA512 **/
+            int iterations = 100000;
+            Rfc2898DeriveBytes bcrypt = new (
+                Encoding.UTF8.GetBytes(credential),
+                Encoding.UTF8.GetBytes(salt),
+                iterations,
+                hashAlgorithm: HashAlgorithmName.SHA512);
+            
+            byte[] hash = bcrypt.GetBytes(32);
+            
             return BytesToStringHex(hash);
         }
     }
