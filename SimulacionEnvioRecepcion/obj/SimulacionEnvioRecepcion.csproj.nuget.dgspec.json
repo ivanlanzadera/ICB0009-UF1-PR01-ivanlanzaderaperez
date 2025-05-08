@@ -62,14 +62,14 @@
         }
       }
     },
-    "f:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
+    "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+        "projectUniqueName": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
         "projectName": "ClaveSimetricaClass",
-        "projectPath": "f:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+        "projectPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
         "packagesPath": "C:\\Users\\ivanl\\.nuget\\packages\\",
-        "outputPath": "f:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\obj\\",
+        "outputPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivanl\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -145,8 +145,8 @@
               "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
                 "projectPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj"
               },
-              "f:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
-                "projectPath": "f:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj"
+              "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
+                "projectPath": "F:\\CFGS - DAM\\2do año\\2 Semestre\\M09 - Procesos e hilos\\UF1\\ICB0009-UF1-PR01-ivanlanzaderaperez\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj"
               }
             }
           }
